@@ -1,36 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yusuf Baig",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+    "email": "yb2510@nyu.edu",
+    "phone": "(929) 701-6567",
+    "url": "https://yusufbaig7.github.io/",
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Multimodal Digital Media Analysis (MIDAS) Lab",
+      "position": "Research Assistant – Legal AI",
+      "startDate": "2022-02",
+      "endDate": "2024-08",
+       "summary": "Implemented GNNs for Legal Judgment Prediction, leveraging node classification techniques with advanced XLNet-based embeddings to model judicial case structures, achieving a macro F1 score of 75%.\nDeveloped and evaluated zero-shot Legal Judgment Prediction methods using multiple LLMs, leveraging techniques such as Rhetorical Role structuring, Contextualized Case-aware Templates (CCaT), and metadata integration to simulate judicial reasoning processes, achieving a 10% improvement in F1 score compared to traditional approaches.",
     }
   ],
   "volunteer": [
