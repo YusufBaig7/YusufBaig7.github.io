@@ -6,6 +6,22 @@
     "email": "yusuf.baig@nyu.edu",
     "phone": "(929) 701-6567",
     "url": "https://yusufbaig7.github.io/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
