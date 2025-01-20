@@ -2,11 +2,15 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yusuf Baig
+    - name: email
+      value: yusuf.baig@nyu.edu
+    - name: phone
+      value: (929) 701-6567
+    - name: url
+      value: https://yusufbaig7.github.io/
     - name: Languages
-      value: English, German
+      value: English, Hindi, Urdu, Arabic
 
 - title: Education
   type: time_table
