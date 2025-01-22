@@ -66,52 +66,52 @@
         - Developed an Optical Character Recognition (OCR) model that detected handwritten medical prescriptions in
           Arabic using CRNN models and a grammar error correction model for rectification.
 
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Languages
-      items:
-      - Python, C++/C, C#, MATLAB, SQL, Java, HTML, CSS, LATEX, Racket
-    - title: ML Frameworks
-      items:
-      - PyTorch, Tensorflow, HuggingFace, NLTK, pandas, LangChain, LangSmith, Ollama ,NumPy, scikit-learn, seaborn, matplotlib, plotly
-    - title: Deep Learning
-      items:
-      - Zero-Shot Learning, Transfer Learning, Few-Shot Learning, Large Language Models, Natural Language Processing, Graph Neural Networks
-    - title: Frameworks
-      items:
-      - Git, GitHub, Docker, Flask, Jira, BitBucket, .NET, MongoDB, AWS, Linux
+# - title: Skills
+#   type: nested_list
+#   contents:
+#     - title: Languages
+#       items:
+#       - Python, C++/C, C#, MATLAB, SQL, Java, HTML, CSS, LATEX, Racket
+#     - title: ML Frameworks
+#       items:
+#       - PyTorch, Tensorflow, HuggingFace, NLTK, pandas, LangChain, LangSmith, Ollama ,NumPy, scikit-learn, seaborn, matplotlib, plotly
+#     - title: Deep Learning
+#       items:
+#       - Zero-Shot Learning, Transfer Learning, Few-Shot Learning, Large Language Models, Natural Language Processing, Graph Neural Networks
+#     - title: Frameworks
+#       items:
+#       - Git, GitHub, Docker, Flask, Jira, BitBucket, .NET, MongoDB, AWS, Linux
 
-- title: Volunteering
-  type: nested_list
-  contents:
-    - title: Youth for Volunteering
-      items:
-        - Raised money and delivered essentials to daily wage workers during the COVID lockdown, helping
-          specially-abled people, orphaned kids, and at the nursing home.
-    - title: Code Red
-      items:
-        - Distributed sanitary products among the less privileged people and spread awareness around the
-        campus.
-    - title: KMC Blood Bank Donor
-      items:
-        - Donated Blood all seven semesters
-    - title: Rotaract Club
-      items:
-        - Organizing beach cleanups and teaching underprivileged kids.
+# - title: Volunteering
+#   type: nested_list
+#   contents:
+#     - title: Youth for Volunteering
+#       items:
+#         - Raised money and delivered essentials to daily wage workers during the COVID lockdown, helping
+#           specially-abled people, orphaned kids, and at the nursing home.
+#     - title: Code Red
+#       items:
+#         - Distributed sanitary products among the less privileged people and spread awareness around the
+#         campus.
+#     - title: KMC Blood Bank Donor
+#       items:
+#         - Donated Blood all seven semesters
+#     - title: Rotaract Club
+#       items:
+#         - Organizing beach cleanups and teaching underprivileged kids.
 
-- title: Extra and Co-Curricular
-  type: nested_list
-  - title: Research Society Manipal
-    items:
-    - Mentor in AI (Team of 3)
-    - Core Committee member in AI
-  - title: Her Campus Manipal
-    items:
-    - Graphic designer
-    - Public Relations Manager
-  - title: AIESEC in MAHE
-    items:
-    - Team Leader - Business Dev (Team of 3), Team Member - Volunteering
-    - Core committee Marketing and External Relations - World’s Largest Lesson
-    - Core committee marketing - Torgos (Sports event)
+# - title: Extra and Co-Curricular
+#   type: nested_list
+#   - title: Research Society Manipal
+#     items:
+#     - Mentor in AI (Team of 3)
+#     - Core Committee member in AI
+#   - title: Her Campus Manipal
+#     items:
+#     - Graphic designer
+#     - Public Relations Manager
+#   - title: AIESEC in MAHE
+#     items:
+#     - Team Leader - Business Dev (Team of 3), Team Member - Volunteering
+#     - Core committee Marketing and External Relations - World’s Largest Lesson
+#     - Core committee marketing - Torgos (Sports event)
