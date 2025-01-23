@@ -100,7 +100,7 @@
 
 - title: Extra and Co-Curricular
 type: nested_list
-items:
+contents:
   - title: Research Society Manipal
     items:
       - Mentor in AI (Team of 3)
