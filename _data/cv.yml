@@ -25,7 +25,7 @@
       institution: Manipal Institute of Technology, Udupi, India
       year: 2022
       description:
-        - Coursework: Linear Algebra, Distributed Systems, Statistics, Machine Learning, Computer Vision
+        - Coursework ":" Linear Algebra, Distributed Systems, Statistics, Machine Learning, Computer Vision
 
 - title: Work and Research Experience
   type: time_table
@@ -98,18 +98,18 @@
       items:
       - Organizing beach cleanups and teaching underprivileged kids.
 
-# - title: Extra and Co-Curricular
-#   type: nested_list
-#   - title: Research Society Manipal
-#     items:
-#     - Mentor in AI (Team of 3)
-#     - Core Committee member in AI
-#   - title: Her Campus Manipal
-#     items:
-#     - Graphic designer
-#     - Public Relations Manager
-#   - title: AIESEC in MAHE
-#     items:
-#     - Team Leader - Business Dev (Team of 3), Team Member - Volunteering
-#     - Core committee Marketing and External Relations - World’s Largest Lesson
-#     - Core committee marketing - Torgos (Sports event)
+- title: Extra and Co-Curricular
+  type: nested_list
+  - title: Research Society Manipal
+    items:
+    - Mentor in AI (Team of 3)
+    - Core Committee member in AI
+  - title: Her Campus Manipal
+    items:
+    - Graphic designer
+    - Public Relations Manager
+  - title: AIESEC in MAHE
+    items:
+    - Team Leader - Business Dev (Team of 3), Team Member - Volunteering
+    - Core committee Marketing and External Relations - World’s Largest Lesson
+    - Core committee marketing - Torgos (Sports event)
