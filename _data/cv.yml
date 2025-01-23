@@ -82,23 +82,21 @@
       items:
       - Git, GitHub, Docker, Flask, Jira, BitBucket, .NET, MongoDB, AWS, Linux
 
-# - title: Volunteering
-#   type: nested_list
-#   contents:
-#     - title: Youth for Volunteering
-#       items:
-#         - Raised money and delivered essentials to daily wage workers during the COVID lockdown, helping
-#           specially-abled people, orphaned kids, and at the nursing home.
-#     - title: Code Red
-#       items:
-#         - Distributed sanitary products among the less privileged people and spread awareness around the
-#         campus.
-#     - title: KMC Blood Bank Donor
-#       items:
-#         - Donated Blood all seven semesters
-#     - title: Rotaract Club
-#       items:
-#         - Organizing beach cleanups and teaching underprivileged kids.
+- title: Volunteering
+  type: nested_list
+  contents:
+    - title: Youth for Volunteering
+      items:
+      - Raised money and delivered essentials to daily wage workers during the COVID lockdown, helping specially-abled people, orphaned kids, and at the nursing home.
+    - title: Code Red
+      items:
+      - Distributed sanitary products among the less privileged people and spread awareness around the campus.
+    - title: KMC Blood Bank Donor
+      items:
+      - Donated Blood all seven semesters
+    - title: Rotaract Club
+      items:
+      - Organizing beach cleanups and teaching underprivileged kids.
 
 # - title: Extra and Co-Curricular
 #   type: nested_list
