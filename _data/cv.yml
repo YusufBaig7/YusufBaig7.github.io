@@ -99,17 +99,19 @@
       - Organizing beach cleanups and teaching underprivileged kids.
 
 - title: Extra and Co-Curricular
-  type: nested_list
+type: nested_list
+items:
   - title: Research Society Manipal
     items:
-    - Mentor in AI (Team of 3)
-    - Core Committee member in AI
+      - Mentor in AI (Team of 3)
+      - Core Committee member in AI
   - title: Her Campus Manipal
     items:
-    - Graphic designer
-    - Public Relations Manager
+      - Graphic designer
+      - Public Relations Manager
   - title: AIESEC in MAHE
     items:
-    - Team Leader - Business Dev (Team of 3), Team Member - Volunteering
-    - Core committee Marketing and External Relations - Worlds Largest Lesson
-    - Core committee marketing - Torgos (Sports event)
+      - Team Leader - Business Dev (Team of 3), Team Member - Volunteering
+      - Core committee Marketing and External Relations - Worlds Largest Lesson
+      - Core committee marketing - Torgos (Sports event)
+    
