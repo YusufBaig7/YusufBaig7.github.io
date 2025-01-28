@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## CSCI-UA 381 - Programming Tools for the Data Scientist
+*Teaching Assistant : January 2025 - Present*
 
-Organize your courses by years, topics, or universities, however you like!
+I am assisting [Dr. Hasan Aljabbouli](https://cs.nyu.edu/~ha2285/index.html) with the undergraduate course `CSCI-UA 381: Programming Tools for the Data Scientist` for the Spring 2025 semester at New York University.
+
+<!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like! -->

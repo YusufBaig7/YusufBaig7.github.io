@@ -74,13 +74,13 @@
       - Python, C++/C, C#, MATLAB, SQL, Java, HTML, CSS, LATEX, Racket
     - title: ML Frameworks
       items:
-      - PyTorch, Tensorflow, HuggingFace, NLTK, pandas, LangChain, LangSmith, Ollama ,NumPy, scikit-learn, seaborn, matplotlib, plotly
+      - PyTorch, Tensorflow, HuggingFace, NLTK, pandas, LangChain, LangSmith, Ollama, NumPy, scikit-learn, seaborn, matplotlib, plotly
     - title: Deep Learning
       items:
       - Zero-Shot Learning, Transfer Learning, Few-Shot Learning, Large Language Models, Natural Language Processing, Graph Neural Networks
     - title: Frameworks
       items:
-      - Git, GitHub, Docker, Flask, Jira, BitBucket, .NET, MongoDB, AWS, Linux
+      - HPC, Git, GitHub, Docker, Flask, Jira, BitBucket, .NET, MongoDB, AWS, Linux
 
 - title: Volunteering
   type: nested_list
