@@ -9,11 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-# Can LLMs Understand Math? Exploring the Pitfalls in Mathematical Reasoning
-
-## Authors
-Aditeya Baral, Ayush Rajesh Jhaveri, Tiasa Singha Roy, Yusuf Baig  
-Courant Institute of Mathematical Sciences, NYU  
+# [Can LLMs Understand Math? Exploring the Pitfalls in Mathematical Reasoning](https://github.com/can-llms-understand-math/llm-experiments)
 
 ---
 
@@ -46,12 +42,6 @@ Courant Institute of Mathematical Sciences, NYU
 - **Findings**:
   - Accuracy declines with problem difficulty; MAPLE score rises, exposing flaws.
   - Topic-wise: Stronger in geometry, weaker in calculus.
-
----
-
-## Future Work
-- Expand error classification and improve scoring.  
-- Develop alternative judge models and fine-tuning methods for better reasoning alignment.  
 
 ---
 
