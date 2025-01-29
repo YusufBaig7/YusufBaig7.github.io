@@ -3,11 +3,11 @@
   contents:
     - name: Full Name
       value: Yusuf Baig
-    - name: email
+    - name: Email
       value: yusuf.baig@nyu.edu
-    - name: phone
-      value: (929) 701-6567
-    - name: url
+    - name: Phone
+      value: +1 (929) 701-6567
+    - name: URL
       value: https://yusufbaig7.github.io/
     - name: Languages
       value: English, Hindi, Urdu, Arabic
